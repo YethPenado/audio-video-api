@@ -1,0 +1,30 @@
+[
+        {
+            "id":"0",
+            "name":"Castle",
+            "artist":"Halsey",
+            "song":"video/Halsey-Castle.mp3",
+            "image":"img/castle.jpg"
+        },
+        {
+            "id":"1",
+            "name":"Sorry",
+            "artist":"Halsey",
+            "song":"video/Halsey-Sorry.mp3",
+            "image":"img/sorry.jpg"
+        },
+        {
+            "id":"2",
+            "name":"Youngblood",
+            "artist":"5sos",
+            "song":"video/5sos-Youngblood.mp3",
+            "image":"img/youngblood.jpg"
+        },
+        {
+            "id":"3",
+            "name":"Better",
+            "artist":"Khalid",
+            "song":"video/Khalid-Better.mp3",
+            "image":"img/better.jpg"
+        }
+]
